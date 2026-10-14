@@ -56,6 +56,6 @@ Currently learning and working with **microservices, message brokers, distribute
 
 ###  Tools & Technologies
 
-Python, PostgreSQL, REST API, SQLAlchemy, FastAPI, Kafka, Redis, Docker, Git, MySQL, Qdrant, Apache Cassandra, Nginx, gRPC, Linux.
+Python, Go, PostgreSQL, REST API, SQLAlchemy, FastAPI, Kafka, Redis, Docker, Git, MySQL, Qdrant, Apache Cassandra, Nginx, gRPC, Linux.
 
 
